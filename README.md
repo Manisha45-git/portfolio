@@ -49,4 +49,3 @@ GitHub: @Manisha45-git
 
 LinkedIn: Manisha Sarode
 
-Email: sarodemanisha45@example.com
